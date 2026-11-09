@@ -1,0 +1,6 @@
+{
+  "name": "SPAM-Batandok",
+  "description": "Sistem Pengurusan & Analisis Markah (SPAM-Batandok) UASA, UPSA & PBD SK Batandok, Beaufort Sabah (Kod Sekolah: XBA6003)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
